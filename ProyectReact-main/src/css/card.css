@@ -1,0 +1,31 @@
+.card {
+    border: 5px solid #000000;
+    border-radius: 4px;
+    background-color: #0501ff;
+    box-shadow: 0 2px 4px rgb(255, 208, 0);
+    height: 300px;
+    width: 200px;
+    text-align: center;
+    margin: 16px;
+    padding: 16px;
+  }
+  
+  .card-img {
+    width: 500px;
+    height: 400px;
+  }
+  
+  
+  .card .Titulo {
+    font-size: 24px;
+  }
+
+  .titulo{
+    display: flex;
+    justify-content: center;
+  }
+  
+
+  
+
+  
